@@ -1,11 +1,15 @@
 # 90s bedroom for Rust-DOS
 
-A 90s kid's bedroom for Rust-DOS's 3D scene and VR mode. You sit at a
-steel desk in front of a beige PC whose monitor shows the DOS picture, with
-speakers either side. Around you are a wooden bed, a nightstand, a TV and
-boombox, toys, posters of early-90s PC games, and a window with the sun
-setting outside. The lamps are off: the room is lit only by the golden
-evening sun coming through the window and by the monitor's glow.
+A 90s kid's bedroom for Rust-DOS's 3D scene and VR mode. 
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3ffb0960-6fea-47a8-8157-7711258c3b88" />
+
+You're alone in your bedroom, sitting in front of your PC. Your homework
+is done, you have your evening to yourself and your games. 
+You look around at your bed, nightstand, your small TV and boombox. 
+You admire your PC game posters and then boot up your PC while the 
+sun is setting. The lamps are off: the room is lit only by the golden
+rays of evening sun and by the monitor's glow.
 
 ## How to use
 
