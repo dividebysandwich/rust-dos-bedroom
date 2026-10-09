@@ -11,6 +11,12 @@ You admire your PC game posters and then boot up your PC while the
 sun is setting. The lamps are off: the room is lit only by the golden
 rays of evening sun and by the monitor's glow.
 
+**At night** (`bedroom_night.glb`): the same room after dark. The sun is
+gone; the moon hangs over the rooftops, and only its faint, cool light
+falls through the window across the floor and the bed. The monitor's glow
+is the brightest thing in the room. Use it wherever `bedroom.glb` appears
+below; its Blender file is `bedroom_night.blend`.
+
 ## How to use
 
 You need a Rust-DOS build with VR support (v1.4.0 or higher).
