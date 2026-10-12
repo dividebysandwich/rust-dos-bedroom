@@ -20,12 +20,14 @@ below; its Blender file is `bedroom_night.blend`.
 **On the desk** lies the manual of the game you're playing, open (from
 the game's profile in Rust-DOS: its manuals and extras). In VR, pick it
 up with a controller's grip button and turn its pages with that hand's
-thumbstick.
+thumbstick. Right of the mouse stands a joystick: grab it by its stick
+and it is the PC's joystick, tilting with your hand (the trigger and A/X
+are its buttons); grab its base to move it around the desk.
 
 ## How to use
 
 You need a Rust-DOS build with VR support (v1.4.0 or higher; the manual on
-the desk needs a newer one).
+the desk and the joystick need a newer one).
 
 **For a single run**, from the command line:
 
