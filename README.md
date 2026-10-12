@@ -17,9 +17,15 @@ falls through the window across the floor and the bed. The monitor's glow
 is the brightest thing in the room. Use it wherever `bedroom.glb` appears
 below; its Blender file is `bedroom_night.blend`.
 
+**On the desk** lies the manual of the game you're playing, open (from
+the game's profile in Rust-DOS: its manuals and extras). In VR, pick it
+up with a controller's grip button and turn its pages with that hand's
+thumbstick.
+
 ## How to use
 
-You need a Rust-DOS build with VR support (v1.4.0 or higher).
+You need a Rust-DOS build with VR support (v1.4.0 or higher; the manual on
+the desk needs a newer one).
 
 **For a single run**, from the command line:
 
