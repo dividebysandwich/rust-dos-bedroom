@@ -7,15 +7,20 @@ A 90s kid's bedroom for Rust-DOS's 3D scene and VR mode.
 You're alone in your bedroom, sitting in front of your PC. Your homework
 is done, you have your evening to yourself and your games. 
 You look around at your bed, nightstand, your small TV and boombox. 
-You admire your PC game posters and then boot up your PC while the 
-sun is setting. The lamps are off: the room is lit only by the golden
-rays of evening sun and by the monitor's glow.
+You admire your PC game posters and then boot up your PC.
 
-**At night** (`bedroom_night.glb`): the same room after dark. The sun is
-gone; the moon hangs over the rooftops, and only its faint, cool light
-falls through the window across the floor and the bed. The monitor's glow
-is the brightest thing in the room. Use it wherever `bedroom.glb` appears
-below; its Blender file is `bedroom_night.blend`.
+**The time of day** is Rust-DOS's: by default the room follows your
+computer's clock. The window faces west: in the afternoon the sun shines
+in across the floor, at six it sets over the rooftops, and at night the
+moon and the stars are out. In the settings' VR tab (or `[vr] time=`,
+`time_speed=`), set another time, or let the day go by faster. Rain, a
+thunderstorm or snow (`[vr] weather=`) fall outside the window, with the
+rain running down the glass and drumming on it.
+
+**The lamps** (the desk lamp, the ceiling lamp and the bedside lamp on the
+nightstand) are off as you come in. Click one in the window, point at it
+with a controller's laser and pull the trigger, or touch it and pull the
+trigger.
 
 **On the desk** lies the manual of the game you're playing, open (from
 the game's profile in Rust-DOS: its manuals and extras). In VR, pick it
@@ -24,10 +29,17 @@ thumbstick. Right of the mouse stands a joystick: grab it by its stick
 and it is the PC's joystick, tilting with your hand (the trigger and A/X
 are its buttons); grab its base to move it around the desk.
 
+Left of the manual sits a **polaroid camera**. Pick it up and pull the
+trigger (or click it): it takes a picture of the room with its flash,
+saves it in Rust-DOS's capture folder, and a print slides out and
+develops. The sticky notes, the notepad, the stapler, the pencil cup, the
+pencils and the eraser can be picked up and put down anywhere, too.
+
 ## How to use
 
 You need a Rust-DOS build with VR support (v1.4.0 or higher; the manual on
-the desk and the joystick need a newer one).
+the desk and the joystick need a newer one, and the time of day, the
+weather, the lamps and the camera newer still).
 
 **For a single run**, from the command line:
 
@@ -72,6 +84,8 @@ explains them in full.
 |---|---|---|---|
 | 90s - 00s PC (case, monitor, keyboard, mouse) | [ImSiyue](https://sketchfab.com/siyue_cherry) | [Sketchfab](https://sketchfab.com/3d-models/90s-00s-pc-451d69fabf344777a0021ea4d8b98956) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | Bed | CMHT Oculus | [Poly Pizza](https://poly.pizza/m/eJtyBTDhl_p) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| Instant Camera (the polaroid camera) | Nick Slough | [Poly Pizza](https://poly.pizza/m/AYBr4bMYvS) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| Bedside Lamp | Zsky | [Poly Pizza](https://poly.pizza/m/NQGVFkRh03) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 
 ### Furniture, toys and things (Poly Haven)
 
