@@ -29,6 +29,13 @@ thumbstick. Right of the mouse stands a joystick: grab it by its stick
 and it is the PC's joystick, tilting with your hand (the trigger and A/X
 are its buttons); grab its base to move it around the desk.
 
+In front of the PC lies its **keyboard**, which Rust-DOS puts there. Type
+on it with the tips of your controllers: push a tip down into a key, and
+bring it up over the keys again for the next one (or point the laser at a
+key and pull the trigger). Take it by its case with the grip button to
+move it. While your headset's cameras show you your real keyboard (`[vr]
+keyboard=`), it is hidden.
+
 Left of the manual sits a **polaroid camera**. Pick it up and pull the
 trigger (or click it): it takes a picture of the room with its flash,
 saves it in Rust-DOS's capture folder, and a print slides out and
@@ -39,7 +46,7 @@ pencils and the eraser can be picked up and put down anywhere, too.
 
 You need a Rust-DOS build with VR support (v1.4.0 or higher; the manual on
 the desk and the joystick need a newer one, and the time of day, the
-weather, the lamps and the camera newer still).
+weather, the lamps, the camera and the keyboard newer still).
 
 **For a single run**, from the command line:
 
@@ -82,7 +89,7 @@ explains them in full.
 
 | Model | Author | Source | Licence |
 |---|---|---|---|
-| 90s - 00s PC (case, monitor, keyboard, mouse) | [ImSiyue](https://sketchfab.com/siyue_cherry) | [Sketchfab](https://sketchfab.com/3d-models/90s-00s-pc-451d69fabf344777a0021ea4d8b98956) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| 90s - 00s PC (case, monitor, mouse) | [ImSiyue](https://sketchfab.com/siyue_cherry) | [Sketchfab](https://sketchfab.com/3d-models/90s-00s-pc-451d69fabf344777a0021ea4d8b98956) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | Bed | CMHT Oculus | [Poly Pizza](https://poly.pizza/m/eJtyBTDhl_p) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | Instant Camera (the polaroid camera) | Nick Slough | [Poly Pizza](https://poly.pizza/m/AYBr4bMYvS) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | Bedside Lamp | Zsky | [Poly Pizza](https://poly.pizza/m/NQGVFkRh03) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |

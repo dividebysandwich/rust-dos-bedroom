@@ -2,7 +2,7 @@
 
 | Model | Author | Source | Licence |
 |---|---|---|---|
-| 90s - 00s PC (case, monitor, keyboard, mouse) | [ImSiyue](https://sketchfab.com/siyue_cherry) | [Sketchfab](https://sketchfab.com/3d-models/90s-00s-pc-451d69fabf344777a0021ea4d8b98956) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| 90s - 00s PC (case, monitor, mouse) | [ImSiyue](https://sketchfab.com/siyue_cherry) | [Sketchfab](https://sketchfab.com/3d-models/90s-00s-pc-451d69fabf344777a0021ea4d8b98956) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | Bed | CMHT Oculus | [Poly Pizza](https://poly.pizza/m/eJtyBTDhl_p) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | Instant Camera (the polaroid camera) | Nick Slough | [Poly Pizza](https://poly.pizza/m/AYBr4bMYvS) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | Bedside Lamp | Zsky | [Poly Pizza](https://poly.pizza/m/NQGVFkRh03) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
